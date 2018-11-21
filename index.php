@@ -26,7 +26,7 @@
 			<!-- 左侧菜单区域   -->
 			<div class="col-md-3">
 					<div class="list-group">
-						<a href="\Just_For_Fun\Love-master\index.html" class="list-group-item">Love Story</a>
+						<a href="\love" class="list-group-item">Love Story</a>
 					</div>
 			</div>
 			
